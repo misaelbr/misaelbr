@@ -1,12 +1,9 @@
-<img align="right" src="https://github.com/misaelbr/misaelbr/blob/master/images/illustration.png" width="300"/>
+<img align="right" src="https://github.com/misaelbr/misaelbr/blob/master/images/illustration.png" width="300" />
 
 
 ### Hello!! I'm Misael 👋
 
 I am a full stack developer and Moodle administrator. I use my free time in hobbies like photography and fishing. As a photographer, I was already awarded in a contest, as well as I sold excellent copyright photos.
-
-- - -
-
 
 💻 &nbsp; I’m currently working at Universidade de Santa Cruz do Sul (UNISC)
 <br />🎓 &nbsp; I’m currently learning Computer Science and Articial Intelligence

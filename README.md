@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/misaelbr/misaelbr/blob/master/images/illustration.png" width="300" />
+<img align="right" src="images/illustration.png" width="300" />
 
 
 ### Hello!! I'm Misael 👋

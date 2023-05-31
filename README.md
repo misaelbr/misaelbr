@@ -10,6 +10,10 @@ I'm a full stack developer and Moodle administrator. I use my free time in hobbi
 <br />⚡ &nbsp; Fun fact: I am a volunteer firefighter and I love cats and dogs.
 <br />📷 &nbsp; My photo repositories: [![Instagram Badge](https://img.shields.io/badge/-misaelbr-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/misaelbr/)](https://instagram.com/misaelbr/) [![500px Badge](https://img.shields.io/badge/-misaelbr-blue?style=flat-square&logo=500px&logoColor=white&link=https://500px.com/misaelbr/)](https://500px.com/misaelbr/)
 <br /><br />
+[![Misael GitHub stats](https://github-readme-stats.vercel.app/api?username=misaelbr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Techs
+Experience with the following technologies:
+<br /><br />
 ![image](https://img.shields.io/badge/-css-1572B6?logo=css3&style=for-the-badge&logoColor=white)
 ![image](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)
 ![image](https://img.shields.io/badge/-html-E34F26?logo=html5&style=for-the-badge&logoColor=white)
@@ -34,7 +38,12 @@ I'm a full stack developer and Moodle administrator. I use my free time in hobbi
 ![image](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![image](https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white)
 <br />
-[![Misael GitHub stats](https://github-readme-stats.vercel.app/api?username=misaelbr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![image](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![image](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![image](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<br />📫 &nbsp; How to reach me: [![Gmail Badge](https://img.shields.io/badge/-misael.bandeira@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:misael.bandeira@gmail.com)](mailto:misael.bandeira@gmai.com) &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-misaelbr-blue?style=flat-square&logo=Linkedin&&logoColor=whitelink=https://www.linkedin.com/in/misaelbr/)](https://www.linkedin.com/in/misaelbr/)
+## Contacts
+
+<br />📫 &nbsp; How to reach me:<br />
+[![Gmail Badge](https://img.shields.io/badge/-misael.bandeira@gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:misael.bandeira@gmail.com)](mailto:misael.bandeira@gmai.com) &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-misaelbr-blue?style=for-the-badge&logo=Linkedin&&logoColor=whitelink=https://www.linkedin.com/in/misaelbr/)](https://www.linkedin.com/in/misaelbr/)
 

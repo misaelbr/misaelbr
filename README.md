@@ -43,7 +43,6 @@ Experience with the following technologies:
 ![image](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Contacts
-
-<br />📫 &nbsp; How to reach me:<br />
+📫 &nbsp; How to reach me:<br />
 [![Gmail Badge](https://img.shields.io/badge/-misael.bandeira@gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:misael.bandeira@gmail.com)](mailto:misael.bandeira@gmai.com) &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-misaelbr-blue?style=for-the-badge&logo=Linkedin&&logoColor=whitelink=https://www.linkedin.com/in/misaelbr/)](https://www.linkedin.com/in/misaelbr/)
 

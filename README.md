@@ -9,7 +9,7 @@ I'm a full stack developer and Moodle administrator. I use my free time in hobbi
 <br />⚡ &nbsp; Fun fact: I am a volunteer firefighter and I love cats and dogs.
 <br />📷 &nbsp; My photo repositories: [![Instagram Badge](https://img.shields.io/badge/-misaelbr-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/misaelbr/)](https://instagram.com/misaelbr/) [![500px Badge](https://img.shields.io/badge/-misaelbr-blue?style=flat-square&logo=500px&logoColor=white&link=https://500px.com/misaelbr/)](https://500px.com/misaelbr/)
 <br /><br />
-[![Misael GitHub stats](https://github-readme-stats.vercel.app/api?username=misaelbr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Misael GitHub stats](https://github-readme-stats.vercel.app/api?username=misaelbr&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 ## Techs
 Experience with the following technologies:
 <br /><br />

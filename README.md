@@ -1,6 +1,5 @@
+# Hello!! I'm Misael 👋
 <img align="right" src="images/illustration.png" width="300" />
-
-## Hello!! I'm Misael 👋
 
 I'm a full stack developer and Moodle administrator. I use my free time in hobbies like photography and fishing. As a photographer, I was already awarded in a contest, as well as I sold excellent copyright photos.
 

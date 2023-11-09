@@ -13,7 +13,7 @@ I'm a full stack developer and Moodle administrator. I use my free time in hobbi
 ## Techs 🛠️
 Experience with the following technologies:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misaelbr&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misaelbr&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark&hide=jupyter%20notebook&langs_count=20)
 
 ### Front-End
 ![image](https://img.shields.io/badge/-css-1572B6?logo=css3&style=for-the-badge&logoColor=white)

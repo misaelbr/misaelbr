@@ -1,9 +1,9 @@
 # Hello!! I'm Misael 👋
 <img align="right" src="images/illustration.png" width="300" />
 
-I'm a full stack developer and Moodle administrator. I use my free time in hobbies like photography and fishing. As a photographer, I was already awarded in a contest, as well as I sold excellent copyright photos.
+I'm a fullstack developer and currently work with RPA. I use my free time in hobbies like photography and fishing. As a photographer, I was already awarded in a contest, as well as I sold excellent copyright photos.
 
-💻 &nbsp; I’m currently working at Universidade de Santa Cruz do Sul (UNISC);
+💻 &nbsp; I’m currently working at Sicredi (Cooperativa de Crédito Centro Serra - RS);
 <br />🎓 &nbsp; I’m currently learning Computer Science and Articial Intelligence;
 <br /> :house_with_garden: &nbsp; I currently live in the state of Rio Grande do Sul, Brazil;
 <br />⚡ &nbsp; Fun fact: I am a volunteer firefighter and I love cats and dogs.
